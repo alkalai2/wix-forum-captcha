@@ -1,7 +1,6 @@
-// The following code snippet prevents a user from accessing the PAP Forum until they complete a reCAPTCHA anti-bot challenge.
+// The following code snippet prevents a user from accessing the Forum until they complete a reCAPTCHA anti-bot challenge.
 // It hides the Forum element and displays a popup with the reCAPTCHA challenge. Then based on the reCAPTCHA results it shows/hides the forum.
 // If anyone would like to remove this functionality, simply delete this code snippet.
-// With any questions reach out to the author jonathana@papfoundation.org
 
 // Wix element ID's for elements referenced.
 const FORUM_ID = "#forum1";
