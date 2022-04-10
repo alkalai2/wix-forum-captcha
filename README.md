@@ -7,4 +7,4 @@ It uses the [Wix CAPTCHA API](https://www.wix.com/velo/reference/$w/captcha). Th
 
 <img width="600" alt="Screen Shot 2022-04-09 at 7 40 15 PM" src="https://user-images.githubusercontent.com/7269486/162598851-b7ff32ff-0846-4051-8603-1010268a0485.png">
 
-<i> Note: <i> For this to work a Wix reCAPTCHA element was first added onto the page using the Wix Editor, and by default hidden. 
+<i> Note: </i> For this to work a Wix reCAPTCHA element was first added onto the page using the Wix Editor, and by default hidden. 
